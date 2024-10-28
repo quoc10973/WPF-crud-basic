@@ -1,0 +1,53 @@
+﻿<Window x:Class="EnglishPremierLeague2024.MenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EnglishPremierLeague2024"
+        mc:Ignorable="d"
+        Title="MenuWindow" Height="480" Width="801" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Loaded="Grid_Loaded" Background="#FFCBCACA">
+        <DataGrid x:Name="dgvFoolballClub"  RowStyle="{StaticResource selectedTrigger}" HorizontalAlignment="Center" Height="181" Margin="0,36,0,0" VerticalAlignment="Top" Width="712" AutoGenerateColumns="False" CanUserAddRows="False" SelectionChanged="dgvFoolballClub_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Football Club Id" Binding="{Binding FootballClubId}" Width="100"/>
+                <DataGridTextColumn Header="ClubName" Binding="{Binding ClubName}" Width="80"/>
+                <DataGridTextColumn Header="Description" Binding="{Binding ClubShortDescription}" Width="160"/>
+                <DataGridTextColumn Header="Soccer Practice Field" Binding="{Binding SoccerPracticeField}" Width="170"/>
+                <DataGridTextColumn Header="Mascos" Binding="{Binding Mascos}" Width="200"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="lblFootballClub" Content="Football Club" HorizontalAlignment="Left" Margin="44,10,0,0" VerticalAlignment="Top" Height="31" Width="155" FontFamily="Arial Black" HorizontalContentAlignment="Center" FontSize="16" Foreground="#FF6A1111" Background="#00000000" FontWeight="Bold"/>
+        <Label x:Name="lblId" Content="ID" HorizontalAlignment="Left" Margin="51,251,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.87,0.549"/>
+        <TextBox x:Name="txtId" HorizontalAlignment="Left" Margin="122,254,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="121"/>
+        <Label x:Name="lblClubName" Content="Club name" HorizontalAlignment="Left" Margin="51,281,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.87,0.549"/>
+        <TextBox x:Name="txtClubName" HorizontalAlignment="Left" Margin="122,285,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="162"/>
+        <Label x:Name="lblDescription" Content="Description&#xD;&#xA;" HorizontalAlignment="Left" Margin="51,312,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.87,0.549"/>
+        <TextBox x:Name="txtDescription" HorizontalAlignment="Left" Margin="123,315,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="288" RenderTransformOrigin="0.525,1.35"/>
+        <Label x:Name="lblPracticeField" Content="Practice Field" HorizontalAlignment="Left" Margin="426,276,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5"/>
+        <TextBox x:Name="txtField" HorizontalAlignment="Left" Margin="511,281,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="234"/>
+        <Label x:Name="lblMascos" Content="Mascos" HorizontalAlignment="Left" Margin="454,312,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5"/>
+        <TextBox x:Name="txtMascos" HorizontalAlignment="Left" Margin="511,315,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="234"/>
+        <Button x:Name="btnInsert" TabIndex="3" Content="Insert" HorizontalAlignment="Left" Margin="302,392,0,0" VerticalAlignment="Top" Width="88" Height="21" Background="Gainsboro" BorderThickness="0.4" Foreground="#FF56048F" RenderTransformOrigin="0.517,0.088" Click="btnInsert_Click"/>
+        <Button x:Name="btnUpdate" TabIndex="3" Content="Update" HorizontalAlignment="Left" Margin="417,392,0,0" VerticalAlignment="Top" Width="88" Height="21" Background="Gainsboro" BorderThickness="0.4" Foreground="#FF56048F" RenderTransformOrigin="0.517,0.088" Cursor="Hand" Click="btnUpdate_Click"/>
+        <Button x:Name="btnDelete" TabIndex="3" Content="Delete" HorizontalAlignment="Left" Margin="539,392,0,0" VerticalAlignment="Top" Width="88" Height="21" Background="Gainsboro" BorderThickness="0.4" Foreground="#FF56048F" RenderTransformOrigin="0.517,0.088" Cursor="Hand" Click="btnDelete_Click"/>
+        <Button x:Name="btnClear" TabIndex="3" Content="Reset" HorizontalAlignment="Left" Margin="658,392,0,0" VerticalAlignment="Top" Width="88" Height="21" Background="Gainsboro" BorderThickness="0.4" Foreground="#FF56048F" RenderTransformOrigin="0.517,0.088" Cursor="Hand" Click="btnClear_Click"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="41" Margin="294,382,0,0" VerticalAlignment="Top" Width="462"/>
+        <Label x:Name="lblOption" Content="Option:" HorizontalAlignment="Left" Margin="321,363,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.898,1.219" FontWeight="Bold" FontFamily="Bahnschrift"/>
+        <GroupBox x:Name="grbDetail" HorizontalAlignment="Center" Height="122" Header=" Detail " VerticalAlignment="Top" Width="724" FontStyle="Italic" FontFamily="Bahnschrift" Margin="0,235,0,0">
+            <GroupBox.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFCE4DBD" Offset="1"/>
+                </LinearGradientBrush>
+            </GroupBox.Foreground>
+        </GroupBox>
+        <Label x:Name="lblWelcome" Content="Welcome Admin" HorizontalAlignment="Left" Margin="43,364,0,0" VerticalAlignment="Top" Height="31" Width="155" FontFamily="Bradley Hand ITC" HorizontalContentAlignment="Center" FontSize="16" Foreground="#FF6A1111" Background="#00000000" FontWeight="Bold" FontStyle="Italic"/>
+        <Button x:Name="btnShutdown" HorizontalAlignment="Left"  BorderThickness="0" Background="Transparent" Margin="237,385,0,0" VerticalAlignment="Top" Height="38" Width="42" Click="btnShutdown_Click">
+            <Image x:Name="imgShutdown" Source="pack://application:,,,/icon/button.png" Width="30"  Height="30" Cursor="Hand" Opacity="0.99" />
+        </Button>
+        <Button x:Name="btnManageAccount" TabIndex="3" Content="Manage Account" HorizontalAlignment="Left" Margin="127,397,0,0" VerticalAlignment="Top" Width="101" Height="21" Background="Gainsboro" BorderThickness="0.4" Foreground="#FF56048F" RenderTransformOrigin="0.517,0.088" Click="btnManageAccount_Click" />
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="0" Margin="56,423,0,0" VerticalAlignment="Top" Width="168"/>
+        <Button x:Name="btnManagePlayer" TabIndex="3" Content="Manage Player" HorizontalAlignment="Left" Margin="17,397,0,0" VerticalAlignment="Top" Width="101" Height="21" Background="Gainsboro" BorderThickness="0.4" Foreground="#FF56048F" RenderTransformOrigin="0.517,0.088" Click="btnManagePlayer_Click"/>
+
+    </Grid>
+</Window>

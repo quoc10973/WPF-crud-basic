@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN211\\EnglishPremierLeague2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{724C3D04-4225-4E8B-A9CF-F6D2B9BAB95D}|EnglishPremierLeague2024\\EnglishPremierLeague2024.csproj|d:\\prn211\\englishpremierleague2024\\englishpremierleague2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724C3D04-4225-4E8B-A9CF-F6D2B9BAB95D}|EnglishPremierLeague2024\\EnglishPremierLeague2024.csproj|solutionrelative:englishpremierleague2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C3D04-4225-4E8B-A9CF-F6D2B9BAB95D}|EnglishPremierLeague2024\\EnglishPremierLeague2024.csproj|d:\\prn211\\englishpremierleague2024\\englishpremierleague2024\\menuwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{724C3D04-4225-4E8B-A9CF-F6D2B9BAB95D}|EnglishPremierLeague2024\\EnglishPremierLeague2024.csproj|solutionrelative:englishpremierleague2024\\menuwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C3D04-4225-4E8B-A9CF-F6D2B9BAB95D}|EnglishPremierLeague2024\\EnglishPremierLeague2024.csproj|d:\\prn211\\englishpremierleague2024\\englishpremierleague2024\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{724C3D04-4225-4E8B-A9CF-F6D2B9BAB95D}|EnglishPremierLeague2024\\EnglishPremierLeague2024.csproj|solutionrelative:englishpremierleague2024\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C3D04-4225-4E8B-A9CF-F6D2B9BAB95D}|EnglishPremierLeague2024\\EnglishPremierLeague2024.csproj|d:\\prn211\\englishpremierleague2024\\englishpremierleague2024\\viewwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{724C3D04-4225-4E8B-A9CF-F6D2B9BAB95D}|EnglishPremierLeague2024\\EnglishPremierLeague2024.csproj|solutionrelative:englishpremierleague2024\\viewwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724C3D04-4225-4E8B-A9CF-F6D2B9BAB95D}|EnglishPremierLeague2024\\EnglishPremierLeague2024.csproj|d:\\prn211\\englishpremierleague2024\\englishpremierleague2024\\playerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{724C3D04-4225-4E8B-A9CF-F6D2B9BAB95D}|EnglishPremierLeague2024\\EnglishPremierLeague2024.csproj|solutionrelative:englishpremierleague2024\\playerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN211\\EnglishPremierLeague2024\\EnglishPremierLeague2024\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EnglishPremierLeague2024\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN211\\EnglishPremierLeague2024\\EnglishPremierLeague2024\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EnglishPremierLeague2024\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCoAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:00:15.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN211\\EnglishPremierLeague2024\\EnglishPremierLeague2024\\MenuWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EnglishPremierLeague2024\\MenuWindow.xaml.cs",
+              "ToolTip": "D:\\PRN211\\EnglishPremierLeague2024\\EnglishPremierLeague2024\\MenuWindow.xaml.cs",
+              "RelativeToolTip": "EnglishPremierLeague2024\\MenuWindow.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:16:37.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN211\\EnglishPremierLeague2024\\EnglishPremierLeague2024\\ViewWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EnglishPremierLeague2024\\ViewWindow.xaml.cs",
+              "ToolTip": "D:\\PRN211\\EnglishPremierLeague2024\\EnglishPremierLeague2024\\ViewWindow.xaml.cs",
+              "RelativeToolTip": "EnglishPremierLeague2024\\ViewWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAswCoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:07:11.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerWindow.xaml",
+              "DocumentMoniker": "D:\\PRN211\\EnglishPremierLeague2024\\EnglishPremierLeague2024\\PlayerWindow.xaml",
+              "RelativeDocumentMoniker": "EnglishPremierLeague2024\\PlayerWindow.xaml",
+              "ToolTip": "D:\\PRN211\\EnglishPremierLeague2024\\EnglishPremierLeague2024\\PlayerWindow.xaml",
+              "RelativeToolTip": "EnglishPremierLeague2024\\PlayerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T18:05:17.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PRN211\\EnglishPremierLeague2024\\EnglishPremierLeague2024\\App.xaml",
+              "RelativeDocumentMoniker": "EnglishPremierLeague2024\\App.xaml",
+              "ToolTip": "D:\\PRN211\\EnglishPremierLeague2024\\EnglishPremierLeague2024\\App.xaml",
+              "RelativeToolTip": "EnglishPremierLeague2024\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T18:01:14.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

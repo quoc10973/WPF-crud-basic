@@ -1,0 +1,15 @@
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\bin\Release\net8.0\EnglishPremierLeague2024.BLL.deps.json
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\bin\Release\net8.0\EnglishPremierLeague2024.BLL.dll
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\bin\Release\net8.0\EnglishPremierLeague2024.BLL.pdb
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\bin\Release\net8.0\EnglishPremierLeague2024.DAL.dll
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\bin\Release\net8.0\EnglishPremierLeague2024.DAL.pdb
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\obj\Release\net8.0\EnglishPremierLeague2024.BLL.csproj.AssemblyReference.cache
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\obj\Release\net8.0\EnglishPremierLeague2024.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\obj\Release\net8.0\EnglishPremierLeague2024.BLL.AssemblyInfoInputs.cache
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\obj\Release\net8.0\EnglishPremierLeague2024.BLL.AssemblyInfo.cs
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\obj\Release\net8.0\EnglishPremierLeague2024.BLL.csproj.CoreCompileInputs.cache
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\obj\Release\net8.0\EnglishP.F9CFD09D.Up2Date
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\obj\Release\net8.0\EnglishPremierLeague2024.BLL.dll
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\obj\Release\net8.0\refint\EnglishPremierLeague2024.BLL.dll
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\obj\Release\net8.0\EnglishPremierLeague2024.BLL.pdb
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.BLL\obj\Release\net8.0\ref\EnglishPremierLeague2024.BLL.dll

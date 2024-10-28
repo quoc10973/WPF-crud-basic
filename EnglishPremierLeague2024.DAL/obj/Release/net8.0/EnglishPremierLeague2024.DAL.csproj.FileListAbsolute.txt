@@ -1,0 +1,14 @@
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\bin\Release\net8.0\EnglishPremierLeague2024.DAL.deps.json
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\bin\Release\net8.0\EnglishPremierLeague2024.DAL.runtimeconfig.json
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\bin\Release\net8.0\EnglishPremierLeague2024.DAL.dll
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\bin\Release\net8.0\EnglishPremierLeague2024.DAL.pdb
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\obj\Release\net8.0\EnglishPremierLeague2024.DAL.csproj.AssemblyReference.cache
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\obj\Release\net8.0\EnglishPremierLeague2024.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\obj\Release\net8.0\EnglishPremierLeague2024.DAL.AssemblyInfoInputs.cache
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\obj\Release\net8.0\EnglishPremierLeague2024.DAL.AssemblyInfo.cs
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\obj\Release\net8.0\EnglishPremierLeague2024.DAL.csproj.CoreCompileInputs.cache
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\obj\Release\net8.0\EnglishPremierLeague2024.DAL.dll
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\obj\Release\net8.0\refint\EnglishPremierLeague2024.DAL.dll
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\obj\Release\net8.0\EnglishPremierLeague2024.DAL.pdb
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\obj\Release\net8.0\EnglishPremierLeague2024.DAL.genruntimeconfig.cache
+D:\PRN211\EnglishPremierLeague2024\EnglishPremierLeague2024.DAL\obj\Release\net8.0\ref\EnglishPremierLeague2024.DAL.dll
